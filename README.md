@@ -1,8 +1,24 @@
 # Calculator App
 This repository contains the final lab project for the course "React Basics" in Coursera.
-![Screenshot]()
+![Screenshot](public/Screenshot.png)
 
-Currently, two official plugins are available:
+## To run the Calculator App:
+<ol>
+<li>Clone or download the repository to your local machine.
+<li>Ensure you have Node.js and npm installed on your machine.
+<li>Navigate to the project directory in your terminal.
+<li>Install the project dependencies by running:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```npm i```
+
+<li>Once the dependencies are installed, you can start the development server by running:
+
+```npm run dev```
+
+<li>Open your web browser and navigate to http://localhost:3000 to view the Calculator App.
+</ol>
+
+Feel free to reach out if you encounter any issues or have further questions!
+
+## Author
+Karima TOUHAMI.
